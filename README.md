@@ -23,11 +23,11 @@
 
 ###
 
-<h1 align="left">• I'm A Front-End Web Developer</h1>
+<img align="right" width="25%" src="./profile-img.png"  />
 
 ###
 
-<img align="right" width="25%" src="./profile-img.png"  />
+<h1 align="left">• I'm A Front-End Web Developer</h1>
 
 ###
 
