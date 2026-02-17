@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="25%" src="./profile-img.png"  />
+<img align="right" width="25%" src="./profile-img.png"  />
 
 ###
 
