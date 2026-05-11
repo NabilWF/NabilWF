@@ -58,10 +58,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://techstack-generator.vercel.app/ts-icon.svg)" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://techstack-generator.vercel.app/react-icon.svg)" height="40" alt="react logo"  />
-  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
