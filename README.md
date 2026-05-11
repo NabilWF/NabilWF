@@ -18,10 +18,6 @@
 
 ###
 
-<h2 align="left">• From Egypt, Cairo<br>• Building Useful Websites</h2>
-
-###
-
 <h2 align="left">• Languages and Tools 💻</h2>
 
 ###
