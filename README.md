@@ -41,7 +41,7 @@
 <h2 align="left">• Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
   </a>
 </p>
 
