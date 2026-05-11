@@ -38,6 +38,15 @@
 
 ###
 
+<h2 align="left">• Tools</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+  </a>
+</p>
+
+###
+
 <h2 align="left">• I’m Currently Learning</h2>
 
 ###
@@ -58,7 +67,7 @@
 
 ###
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">• Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <a href="https://www.linkedin.com/in/nabil-walid-fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil.walid.fekry" width="40" /></a>
   <img width="12" />
