@@ -60,13 +60,13 @@
 
   <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<a href="https://www.linkedin.com/in/nabil-walid-fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" width="40" /></a>
+<a href="https://www.linkedin.com/in/nabil-walid-fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil.walid.fekry" width="40" /></a>
   <img width="12" />
-<a href="https://www.instagram.com/nabil.walid.fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="supun-nanayakkara" width="40" /></a>
+<a href="https://www.instagram.com/nabil.walid.fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="nabil.walid.fekry" width="40" /></a>
   <img width="12" />
-<a href="https://fb.com/nabil.walid.fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" width="40" /></a>
+<a href="https://fb.com/nabil.walid.fekry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil.walid.fekry" width="40" /></a>
   <img width="12" />
-<a href="https://discord.com/users/817390755886137376" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="supun nanayakkara" width="40" /></a>
+<a href="https://discord.com/users/817390755886137376" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="nabil.walid.fekry" width="40" /></a>
 </div>
 
 ###
