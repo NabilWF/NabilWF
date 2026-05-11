@@ -3,8 +3,8 @@
 ###
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
